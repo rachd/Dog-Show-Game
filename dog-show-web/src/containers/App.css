@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.instructionsButton {
+  border: 0;
+  font-size: 30px;
+  position: absolute;
+  left: 100px;
+  top: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
